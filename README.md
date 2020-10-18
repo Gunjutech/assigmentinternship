@@ -7,7 +7,7 @@ Since some of the data are dynamic, I have used selenium so that the data can be
 After the page is loaded using selenium, I have used BeautifulSoup library to convert into html data. 
 
 To run the code, need to:
-1. install webdriver for chrome which can be done from this site: https://chromedriver.chromium.org/downloads. After running the downloaded file, paste the chrome webdriver in scrpits folder of pythpn folder.
+1. install webdriver for chrome which can be done from this site: https://chromedriver.chromium.org/downloads. After running the downloaded file, paste the chrome webdriver in scrpits folder of python folder.
 2. pip install selenium
 3. pip install beautifulsoup4
 
