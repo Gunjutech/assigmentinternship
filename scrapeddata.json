@@ -1,0 +1,90 @@
+[
+    {
+        "scraped_url": "https://www.instructables.com/Building-a-Self-Driving-Boat-ArduPilot-Rover/",
+        "header_title": "Building a Self-Driving Boat (ArduPilot Rover)",
+        "youtube_url": "https://www.youtube.com/embed/fH5AfD628rk?feature=oembed",
+        "image_url": "https://content.instructables.com/ORIG/FY2/WTVT/KFWJO05V/FY2WTVTKFWJO05V.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=0889d7a436a4385d133da7232be78fe9",
+        "view_count": "2,872",
+        "favorite_count": "27",
+        "comment_count": "6",
+        "steps": [
+            "Step 1: Muscles: the Hull",
+            "Step 2: Muscles: Propulsion System",
+            "Step 3: Muscles: Steering",
+            "Step 4: Muscles: Battery",
+            "Step 5: Muscles: Wiring",
+            "Step 6: Brain: Components",
+            "Step 7: Brain: Wiring",
+            "Step 8: Brain: ArduPilot Setup",
+            "Step 9: Brain: Custom LED Controller",
+            "Step 10: Doing a Couple of Missions"
+        ],
+        "supplies": [
+            "No Supplies found"
+        ]
+    },
+    {
+        "scraped_url": "https://www.instructables.com/Hydraulic-Craft-Stick-Box/",
+        "header_title": "Hydraulic Craft Stick Box",
+        "youtube_url": "https://www.youtube.com/embed/twSk8BreSqs?feature=oembed",
+        "image_url": "https://content.instructables.com/ORIG/FO0/1W8R/KG1825XX/FO01W8RKG1825XX.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=5e6b82fc76197596143fcc1edffb6907",
+        "view_count": "3,423",
+        "favorite_count": "27",
+        "comment_count": "6",
+        "steps": [
+            "Step 1: Create the Sides",
+            "Step 2: Assemble the Bottom and 3 Sides",
+            "Step 3: Create the Hinge and Lid",
+            "Step 4: Create the Hydraulic System",
+            "Step 5: Install the Hydraulic System to the Bottom of the Box",
+            "Step 6: Attach the Hydraulics to the Lid",
+            "Step 7: Finish the Box"
+        ],
+        "supplies": [
+            "Hot glue gun",
+            "Glue sticks",
+            "Craft sticks",
+            "1/8\" dowels",
+            "Syringe and tubing kit",
+            "1/2\" craft cubes",
+            "Cubes with holes",
+            "4\" cable ties"
+        ]
+    },
+    {
+        "scraped_url": "https://www.instructables.com/How-to-Make-a-Self-Watering-Plant-Stand/",
+        "header_title": "How to Make a Self-Watering Plant Stand",
+        "youtube_url": "https://www.youtube.com/embed/67YKqrL4cwM?feature=oembed",
+        "image_url": "https://content.instructables.com/ORIG/F4M/BIXU/KG3OUQT3/F4MBIXUKG3OUQT3.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=345ccc615ba555d7cc66022224912a94",
+        "view_count": "244",
+        "favorite_count": "1",
+        "comment_count": "Not Found",
+        "steps": [
+            "Step 1: Cut the Circle Plant Stand Tops",
+            "Step 2: Top Glue Up and Epoxy Sealing",
+            "Step 3: Concrete Base Prep",
+            "Step 4: Concrete Pour",
+            "Step 5: Adding Finish to the Top",
+            "Step 6: Making It Self-Watering/Self-Regulating",
+            "Step 7: Final Assembly",
+            "Step 8: Post Final Assembly Adjustments – Wrapping the Pipes in Leather",
+            "Step 9: Redoing the Base"
+        ],
+        "supplies": [
+            "·       Circle Cutting Jig - https://amzn.to/30DQOaV",
+            "·       Router - https://amzn.to/3jwr0om",
+            "·       Palm Sander - https://amzn.to/3d2cFxw",
+            "·       Total Boat Penetrating Epoxy - https://amzn.to/3d1YSHa",
+            "·       Total Boat Makerpoxy - https://amzn.to/30CjHnR",
+            "·       Simple Finish - https://amzn.to/2GEOucn",
+            "·       Concrete - https://amzn.to/34ZByIq",
+            "·       Pipes - https://www.supplyhouse.com/sh/control/product/~product_id=BLN050-1000",
+            "·       Coupling - https://www.supplyhouse.com/sh/control/product/~product_id=FBCO1/2",
+            "·       12x12 Piece of Leather - https://amzn.to/2uPYGZJ",
+            "·       Leather Working Starter Tool Kit - https://amzn.to/2uGPGG7",
+            "·       Leather Rotary Cutter - https://amzn.to/2uTr1yd",
+            "·       Inexpensive Mallet - https://amzn.to/3ada6Xv",
+            "·       Leather Marking Pen - https://amzn.to/30pEEAV"
+        ]
+    }
+]
